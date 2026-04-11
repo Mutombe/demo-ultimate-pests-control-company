@@ -56,9 +56,9 @@ const siteData = {
     ctaSecondary: "Our Services",
     trustBadge: "2000+ Spaces Cleaned",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85", alt: "Professional workspace and equipment" },
+      { url: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1920&q=80", alt: "Professional workspace and equipment" },
       { url: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&q=85", alt: "Team delivering quality service" },
-      { url: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85", alt: "Modern facilities and operations" },
+      { url: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1920&q=80", alt: "Modern facilities and operations" },
     ],
   },
 
@@ -82,12 +82,12 @@ const siteData = {
     heroTitle: "Our Services",
     heroSubtitle: "Comprehensive solutions tailored to your needs. Quality and reliability in everything we do.",
     items: [
-      { title: "Deep House Cleaning", slug: "deep-cleaning", desc: "A thorough top-to-bottom clean that reaches every corner, crevice, and surface. We leave your home not just clean, but deeply refreshed.", features: ["All-Room Deep Clean", "Kitchen Degreasing", "Bathroom Sanitisation", "Window Cleaning", "Skirting & Fixtures", "Eco-Friendly Products"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80" },
+      { title: "Deep House Cleaning", slug: "deep-cleaning", desc: "A thorough top-to-bottom clean that reaches every corner, crevice, and surface. We leave your home not just clean, but deeply refreshed.", features: ["All-Room Deep Clean", "Kitchen Degreasing", "Bathroom Sanitisation", "Window Cleaning", "Skirting & Fixtures", "Eco-Friendly Products"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80" },
       { title: "Pest Control", slug: "pest-control", desc: "Eliminate cockroaches, termites, rodents, and all unwanted guests with our targeted, safe, and effective pest management solutions.", features: ["Cockroach Treatment", "Termite Barriers", "Rodent Control", "Bed Bug Elimination", "Ant Treatment", "Follow-Up Inspections"], image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80" },
-      { title: "Fumigation Services", slug: "fumigation", desc: "Professional-grade fumigation for homes, warehouses, and commercial spaces. We use approved chemicals with minimal disruption to your routine.", features: ["Full-Structure Fumigation", "Warehouse Treatment", "Food Storage Compliance", "Pre-Occupation Fumigation", "Quarterly Programs", "Safety Certification"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80" },
-      { title: "Office & Commercial Cleaning", slug: "office-cleaning", desc: "Keep your workspace pristine with our scheduled commercial cleaning services. Healthy employees, professional impressions, every day.", features: ["Daily Maintenance", "After-Hours Service", "Washroom Hygiene", "Floor Polishing", "Waste Management", "Reception Areas"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80" },
+      { title: "Fumigation Services", slug: "fumigation", desc: "Professional-grade fumigation for homes, warehouses, and commercial spaces. We use approved chemicals with minimal disruption to your routine.", features: ["Full-Structure Fumigation", "Warehouse Treatment", "Food Storage Compliance", "Pre-Occupation Fumigation", "Quarterly Programs", "Safety Certification"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80" },
+      { title: "Office & Commercial Cleaning", slug: "office-cleaning", desc: "Keep your workspace pristine with our scheduled commercial cleaning services. Healthy employees, professional impressions, every day.", features: ["Daily Maintenance", "After-Hours Service", "Washroom Hygiene", "Floor Polishing", "Waste Management", "Reception Areas"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80" },
       { title: "Carpet & Upholstery Care", slug: "carpet-care", desc: "Professional steam cleaning that revives your carpets and upholstery, eliminating stains, allergens, and trapped odours.", features: ["Steam Cleaning", "Stain Removal", "Deodorising", "Allergen Treatment", "Fabric Protection", "Quick Dry Technology"], image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80" },
-      { title: "Sanitisation & Disinfection", slug: "sanitisation", desc: "Hospital-grade disinfection for homes, schools, offices, and public spaces. Peace of mind in every square metre.", features: ["Electrostatic Spraying", "Surface Disinfection", "Air Purification", "Touch-Point Focus", "Certificate Issued", "Scheduled Programs"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80" },
+      { title: "Sanitisation & Disinfection", slug: "sanitisation", desc: "Hospital-grade disinfection for homes, schools, offices, and public spaces. Peace of mind in every square metre.", features: ["Electrostatic Spraying", "Surface Disinfection", "Air Purification", "Touch-Point Focus", "Certificate Issued", "Scheduled Programs"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80" },
     ],
   },
 
@@ -95,10 +95,10 @@ const siteData = {
     heroTitle: "Our Work",
     heroSubtitle: "A selection of projects that showcase our commitment to excellence.",
     items: [
-      { title: "Corporate Office Deep Clean", slug: "corporate-deep-clean", category: "Commercial", location: "Harare, Zimbabwe", desc: "Complete deep cleaning of a 3-floor corporate headquarters over one weekend.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80", images: ["https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"] },
+      { title: "Corporate Office Deep Clean", slug: "corporate-deep-clean", category: "Commercial", location: "Harare, Zimbabwe", desc: "Complete deep cleaning of a 3-floor corporate headquarters over one weekend.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80", images: ["https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80"] },
       { title: "Residential Pest Elimination", slug: "residential-pest", category: "Residential", location: "Harare, Zimbabwe", desc: "Full termite and cockroach treatment for a 6-bedroom Borrowdale home.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80", images: ["https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"] },
-      { title: "Warehouse Fumigation", slug: "warehouse-fumigation", category: "Industrial", location: "Harare, Zimbabwe", desc: "Large-scale fumigation of a 2000sqm food storage warehouse.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80", images: ["https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"] },
-      { title: "School Sanitisation Program", slug: "school-sanitisation", category: "Institutional", location: "Harare, Zimbabwe", desc: "Quarterly sanitisation program for a 600-student private school.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80", images: ["https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"] },
+      { title: "Warehouse Fumigation", slug: "warehouse-fumigation", category: "Industrial", location: "Harare, Zimbabwe", desc: "Large-scale fumigation of a 2000sqm food storage warehouse.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80", images: ["https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80"] },
+      { title: "School Sanitisation Program", slug: "school-sanitisation", category: "Institutional", location: "Harare, Zimbabwe", desc: "Quarterly sanitisation program for a 600-student private school.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80", images: ["https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80"] },
       { title: "Restaurant Kitchen Hygiene", slug: "restaurant-kitchen", category: "Hospitality", location: "Harare, Zimbabwe", desc: "Monthly deep clean and pest prevention for a chain of five restaurants.", client: "Client Project", services: ["Deep House Cleaning", "Pest Control"], image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80", images: ["https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"] },
     ],
   },
@@ -167,7 +167,7 @@ const siteData = {
     ctaPrimary: "Request a Quote",
     ctaSecondary: "WhatsApp Us",
     whatsappText: "Hi Ultimate pests control company! I would like to request a quote.",
-    backgroundImage: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1920&q=80",
   },
 
   footer: {
